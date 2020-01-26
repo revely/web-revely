@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-#title: Revely Microsystems
+title: Revely Microsystems
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Revely Microsystems LLC is a small IoT design company located in Austin Texas.

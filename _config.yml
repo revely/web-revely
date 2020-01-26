@@ -23,7 +23,7 @@
 description: >- # this means to ignore newlines until "baseurl:"
   Revely Microsystems LLC is a small IoT design company located in Austin Texas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://growver.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://revely.com" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username: revely
 
 # Build settings

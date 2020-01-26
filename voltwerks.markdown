@@ -25,5 +25,4 @@ Here are just a few of the features that you’ll find in our power supplies:
 ## The VoltWerks Story
 VoltWerks power supplies were launched in 2014 on Kickstarter. Since then we’ve shipped many hundreds of units to customers all around the world.  Although VoltWerks is still unique and has a loyal following, there’s not enough volume to justify another full-scale production build. With inventory exhausted the VoltWerks online store closed June 12, 2018.
 
-## Kickstarter video
-<iframe width="420" height="315" src="http://www.youtube.com/embed/WNYGvvu0I5E" frameborder="0" allowfullscreen></iframe>
+VoltWerks is a trademark of Revely Microsystems LLC.
